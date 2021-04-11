@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">park.It</string>
+    <string name="add_yours">Add Yours</string>
+    <string name="hero_image">Hero Image</string>
+    <string name="address">Address: </string>
+    <string name="country">Country: </string>
+    <string name="state">State: </string>
+    <string name="city">City: </string>
+    <string name="pin_code">pinCode: </string>
+    <string name="get_direction">Get Direction</string>
+    <string name="swipe">swipe</string>
+    <string name="add">Add</string>
+    <string name="add_your_address_as_parking_place_area">Add Your Address as Parking Place/Area</string>
+    <string name="go_back">Go Back</string>
+</resources>
